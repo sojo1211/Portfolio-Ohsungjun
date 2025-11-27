@@ -1,4 +1,4 @@
-<img width="622" height="224" alt="image" src="https://github.com/user-attachments/assets/c2a6bc83-fa21-46ab-8068-561f8a2af61e" /># 📌 **오성준 (Oh Sungjun) – Portfolio**
+ 📌 **오성준 (Oh Sungjun) – Portfolio**
 
 **Yongin University · AI & AI Business Convergence Major**
 **AI Service Lab · Code UP Startup Club Team Leader**
