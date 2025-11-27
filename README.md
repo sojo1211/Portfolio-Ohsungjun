@@ -32,7 +32,7 @@ Contact : 202278035@yiu.ac.kr / sungjun12110@gmail.com
 1.한국데이터산업진흥원 주최 SQL 개발자(SQLD) 자격증 보유 - 자격번호: SQLD-054001255
  
 대회:
-1.용인대YIU-RIS사업 주최 제2회 창업 아이디어 경진대회- 최우수상/
+1.용인대YIU-RIS사업 주최 제2회 창업 아이디어 경진대회- 최우수상/(https://github.com/sojo1211/SafeFall/tree/ict-safefall_ohsungjun)
 2.데이터스테이션 주최 실무 데이터 분석 프로젝트- 최우수상/(https://github.com/sojo1211/DSA_project)
 3.단국대학교 주최 2025 단국 창업 해커톤 경진 대회- 장려상/
 4.한국경영컨설팅학회 주최 2025 추계공동학술대회의 대학생 논문 경진대회 -장려상/
