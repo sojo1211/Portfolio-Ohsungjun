@@ -1,4 +1,4 @@
- **오성준 (Oh Sungjun) – Portfolio**
+##  **오성준 (Oh Sungjun) – Portfolio**
 
 **Yongin University · AI & AI Business Convergence Major**
 **AI Service Lab · Code UP Startup Club Team Leader**
