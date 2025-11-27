@@ -1,4 +1,4 @@
-# 📌 **오성준 (Oh Sungjun) – Portfolio**
+<img width="622" height="224" alt="image" src="https://github.com/user-attachments/assets/c2a6bc83-fa21-46ab-8068-561f8a2af61e" /># 📌 **오성준 (Oh Sungjun) – Portfolio**
 
 **Yongin University · AI & AI Business Convergence Major**
 **AI Service Lab · Code UP Startup Club Team Leader**
@@ -92,17 +92,10 @@ AI 모델링뿐만 아니라, **데이터 분석 → 모델 설계 → 서비스
 * 다중 바이오신호 기반 사고·위험 예측 서비스
 * Supervised + Unsupervised 모델 비교 → 낙상 패턴 분류
 * 산업·요양·지자체 대상 확장형 AI 서비스 로드맵 구성
-* Repo: [https://github.com/sojo1211/SafeFall](https://github.com/sojo1211/SafeFall)
-
----
-
-### 🔹 **Real Sensor Data 기반 낙상 예측 모델링**
-
 * Kaggle Elderly Fall dataset 기반 분류 모델 실험
 * RandomForest / Linear Regression / K-means 구현
 * 피어슨 상관계수 기반 Feature Importance 분석
-* Notebook Repo: [https://github.com/sojo1211/SafeFall/tree/ict-safefall_project](https://github.com/sojo1211/SafeFall/tree/ict-safefall_project)
-
+* Repo: [https://github.com/sojo1211/SafeFall/tree/ict-safefall_project](https://github.com/sojo1211/SafeFall/tree/ict-safefall_project)
 ---
 
 ### 🔹 **DSA Project – 데이터 실무 분석**
