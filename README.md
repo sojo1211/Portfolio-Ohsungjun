@@ -99,7 +99,7 @@ AI 모델링뿐만 아니라, **데이터 분석 → 모델 설계 → 서비스
 ---
 
 ### 🔹 **DSA Project – 데이터 실무 분석**
-
+* IT 아웃소싱 플랫폼 소비자 분석 기반 수수료율 책정 및 매출 증가 전략
 * 실무 데이터 분석 프로젝트 최우수상
 * Repo: [https://github.com/sojo1211/DSA_project](https://github.com/sojo1211/DSA_project)
 
@@ -126,8 +126,3 @@ AI 모델링뿐만 아니라, **데이터 분석 → 모델 설계 → 서비스
 * Notion, Figma
 * MySQL, MongoDB
 
----
-
-# 🌟 **End of Portfolio**
-
-필요하면 **GitHub 스타일 색상 테마 / 아이콘 추가 / README 꾸미기 / 배지(Badge) 넣기**도 해줄게!
