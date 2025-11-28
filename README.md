@@ -31,7 +31,7 @@ AI 모델링뿐만 아니라, **데이터 분석 → 모델 설계 → 서비스
 | 2025 | 데이터스테이션 실무 데이터 분석 프로젝트      | 🥇 **최우수상** | [https://github.com/sojo1211/DSA_project](https://github.com/sojo1211/DSA_project)                                               |
 | 2025 | 단국대학교 단국 창업 해커톤             | 🥉 **장려상**  |  https://github.com/sojo1211/Agri-SCM-Intelligence                                                                                                                              |
 | 2025 | 한국경영컨설팅학회 대학생 논문 경진대회       | 🥉 **장려상**  | https://github.com/sojo1211/Voice-Phishing_HITL                                                                                                                             |
-| 2024 | Blaybus 비즈니스 아이디어 대회        | 참가          | -                                                                                                                                |
+| 2024 | Blaybus 비즈니스 아이디어 대회        | 참가          | - (탈락했던도 적고 내가 못했던거 말해주기)이래서 더  열심히했음                                                                                                                              |
 
 ---
 
@@ -126,3 +126,5 @@ AI 모델링뿐만 아니라, **데이터 분석 → 모델 설계 → 서비스
 * Notion, Figma
 * MySQL, MongoDB
 
+포부 및 연락처
+010-5505-1034
