@@ -62,7 +62,9 @@ AI 모델링뿐만 아니라, **데이터 분석 → 모델 설계 → 서비스
 * 시계열 생체신호 분석
 * Edge AI 및 경량화 모델 연구
 * ML/DL 모델링 실험 및 논문 재현
-* DB+API 설계 방법 https://github.com/sojo1211/DB_API_Spring_prac
+* DB+API 설계 방법
+* https://github.com/sojo1211/DB_API_Spring_prac
+* 
 ---
 
 # 📚 **Education & Certifications**
