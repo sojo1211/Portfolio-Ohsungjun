@@ -92,7 +92,9 @@
   .stack-item span { font-size: 12px; font-weight: 600; color: var(--ink-soft); letter-spacing: -0.01em; }
   .stack-chips { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; max-width: 760px; margin: 18px auto 0; }
   .stack-chips span { font-size: 12px; padding: 6px 12px; background: var(--bg); border: 1px solid var(--line); border-radius: 16px; color: var(--ink-soft); font-weight: 500; }
-  .proj-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; }
+  .proj-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+  @media (max-width: 1024px) { .proj-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 640px) { .proj-grid { grid-template-columns: 1fr; } }
   .proj-card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; overflow: hidden; transition: all .25s; display: flex; flex-direction: column; }
   .proj-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-md); border-color: var(--blue); }
   .proj-banner { height: 180px; display: flex; align-items: center; justify-content: center; position: relative; overflow: hidden; }
@@ -100,11 +102,11 @@
   .proj-banner.b2 { background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); }
   .proj-banner.b3 { background: linear-gradient(135deg, #fef9c3 0%, #fde68a 100%); }
   .proj-banner.b4 { background: linear-gradient(135deg, #FFB800 0%, #FFD400 60%, #FFE680 100%); }
-  .proj-banner-text { font-size: 64px; font-weight: 800; letter-spacing: -0.05em; color: white; text-shadow: 0 2px 12px rgba(0,0,0,0.18); }
+  .proj-banner-text { font-size: 44px; font-weight: 800; letter-spacing: -0.04em; color: white; text-shadow: 0 2px 12px rgba(0,0,0,0.18); }
   .proj-banner.b3 .proj-banner-text { color: #92400e; text-shadow: none; }
   .proj-banner.b4 .proj-banner-text { color: #191f28; text-shadow: none; }
   .proj-banner-tag { position: absolute; top: 14px; right: 14px; font-size: 11px; padding: 5px 10px; background: rgba(255,255,255,0.92); color: var(--ink); border-radius: 6px; font-weight: 600; letter-spacing: 0.02em; }
-  .proj-body { padding: 24px; flex: 1; display: flex; flex-direction: column; }
+  .proj-body { padding: 20px; flex: 1; display: flex; flex-direction: column; }
   .proj-title { font-size: 19px; font-weight: 700; margin-bottom: 4px; letter-spacing: -0.01em; }
   .proj-date { font-size: 13px; color: var(--ink-faint); margin-bottom: 14px; }
   .proj-desc { font-size: 14px; color: var(--ink-soft); line-height: 1.7; margin-bottom: 16px; flex: 1; }
