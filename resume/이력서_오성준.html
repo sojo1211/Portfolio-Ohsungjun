@@ -43,7 +43,33 @@
     padding: 50px;
   }
 
-  /* Header */
+  /* Profile Photo and Header */
+  .profile-group {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+  }
+
+  .profile-img {
+    width: 105px;
+    height: 135px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  }
+
+  @media (max-width: 580px) {
+    .profile-group {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 16px;
+    }
+    .contact-info {
+      text-align: left;
+    }
+  }
+
   header {
     border-bottom: 2px solid var(--primary);
     padding-bottom: 30px;
@@ -476,9 +502,12 @@
 <div class="resume-container">
   <header>
     <div class="header-top">
-      <div>
-        <h1>오 성 준<span>Oh Sungjun</span></h1>
-        <div class="subtitle">금융 리스크 방지 및 AI Engineer</div>
+      <div class="profile-group">
+        <img class="profile-img" src="성준사진.jpg" alt="오성준">
+        <div>
+          <h1>오 성 준<span>Oh Sungjun</span></h1>
+          <div class="subtitle">금융 리스크 방지 및 AI Engineer</div>
+        </div>
       </div>
       <ul class="contact-info">
         <li>📧 <a href="mailto:sungjun12110@gmail.com">sungjun12110@gmail.com</a></li>
@@ -712,7 +741,7 @@
     <div class="cert-list">
       <span class="cert-item">📊 <b>ADsP</b> 데이터분석 준전문가 (2026.02)</span>
       <span class="cert-item">📜 <b>SQLD</b> SQL Developer (2024.09)</span>
-      <span class="cert-item">📄 <b>KCI 논문 등재</b> 경영컨설팅연구 제26권 제3호 게재 (스테이블코인 리스크)</span>
+      <span class="cert-item">📄 <b>KCI 논문 등재</b> 경영컨설팅연구 제26권 제3호 게재 (B2B 무역결제에서 스테이블 코인의 안정성 평가 모델 개발: 실시간 건전성 지수(SRHS)와 규제 통합 프레임워크 중심)</span>
     </div>
   </section>
 
